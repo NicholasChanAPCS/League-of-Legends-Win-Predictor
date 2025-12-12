@@ -77,11 +77,13 @@ I performed a univariate analysis on the distribution of total team gold in the 
   frameborder="0"
 ></iframe>
 
+
 The histogram shows that the distribution of team gold is nearly normal with a slight right skew. This suggests that the data is well-behaved, with totalgold being distributed in a manner that is relatively balanced and serves as a good statistic for analyzing team behavior.
 
 ## Bivariate Analysis 
 
 I performed a biariate analysis on the the statistics of first turret and result to see of the winning teams how many of them destroyed first tower <br>
+
 
 <iframe
   src="assets/first_tower_outcome.html"
