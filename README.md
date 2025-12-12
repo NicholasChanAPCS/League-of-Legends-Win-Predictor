@@ -67,7 +67,7 @@ Here is the head of my cleaned dataframe:
 
 ## Univariate Analysis
 
-I performed a univariate analysis on the distribution of total team gold in the dataset <br>
+I performed a univariate analysis on the distribution of total team gold in the dataset. 
 
 
 <iframe
@@ -82,7 +82,7 @@ The histogram shows that the distribution of team gold is nearly normal with a s
 
 ## Bivariate Analysis 
 
-I performed a biariate analysis on the the statistics of first turret and result to see of the winning teams how many of them destroyed first tower <br>
+I performed a biariate analysis on the the statistics of first turret and result to see of the winning teams how many of them destroyed first tower.
 
 
 <iframe
