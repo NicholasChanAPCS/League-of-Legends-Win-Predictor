@@ -70,13 +70,13 @@ Here is the head of my cleaned dataframe:
 I performed a univariate analysis on the distribution of total team gold in the dataset. 
 
 
+
 <iframe
   src="assets/team_gold_dist.html"
   width="800"
   height="600"
   frameborder="0"
 ></iframe>
-
 
 The histogram shows that the distribution of team gold is nearly normal with a slight right skew. This suggests that the data is well-behaved, with totalgold being distributed in a manner that is relatively balanced and serves as a good statistic for analyzing team behavior.
 
@@ -91,7 +91,6 @@ I performed a biariate analysis on the the statistics of first turret and result
   height="600"
   frameborder="0"
 ></iframe>
-
 
 According to the plot, teams that destory first tower have a win rate of about 70% while teams who do not destroy first tower win about 30% of the time. This means that the majority of teams who destroy first tower end up winning the match indicating its importance in a match.
 
