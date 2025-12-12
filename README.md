@@ -91,3 +91,23 @@ I performed a biariate analysis on the the statistics of first turret and result
   height="600"
   frameborder="0"
 ></iframe>
+
+
+According to the plot, teams that destory first tower have a win rate of about 70% while teams who do not destroy first tower win about 30% of the time. This means that the majority of teams who destroy first tower end up winning the match indicating its importance in a match.
+
+## Interesting Aggregates
+
+Here are some interesting aggregates within the dataset that I looked at
+
+
+|   firsttower |   firstblood |   firstdragon |   firstherald |   firstbaron |   firstmidtower |
+|-------------:|-------------:|--------------:|--------------:|-------------:|----------------:|
+|            0 |         3897 |          4333 |          3198 |         2687 |            2495 |
+|            1 |         5197 |          4755 |          5877 |         4801 |            6599 |
+
+
+I first did a groupby on the cleaned data set on firsttower and then calculated the sum of all the other columns I was interested in. I wanted to see of the teams that secured first tower how many of the other objectives did the also secure first. As the data shows, the team that gets first tower has better statistics for other objectives as well.
+
+# Assessment of Missingness
+
+# NMAR Analysis
